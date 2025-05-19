@@ -14,11 +14,11 @@ const Hero = () => {
             </span> <br/>
             <TypeAnimation
             sequence={[
-                "MERN Stack Dev",
+                "Full Stack Dev",
                 1000,
                 "Frontend Dev",
                 1000,
-                "Web Designer",
+                "Backend Dev",
                 1000,
             ]}
             wrapper="span"
